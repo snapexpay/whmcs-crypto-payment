@@ -10,6 +10,7 @@ invoice is marked paid in WHMCS automatically.
   invoice unpaid, and a payment is never added twice.
 - Test mode: test invoices confirm by themselves without real money; only logged-in admins see
   the button while it is on.
+- Besides crypto, two more payment methods can be turned on for your SnapEX Pay account on request: Russian rubles by QR code (Russia) and Alipay. Ask us in the chat on [pay.snapex.pro](https://pay.snapex.pro).
 
 Requirements: WHMCS 8.x or 9.x, PHP 7.4 or newer with cURL, a SnapEX Pay merchant account.
 
